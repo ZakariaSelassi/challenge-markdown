@@ -39,7 +39,7 @@ Mes hobbies :
 
 > Le néant. 
 
-[<<Précédent](https://laura-vln.github.io/challenge-markdown/)|| Zakaria Selassi ||[Suivant>>]https://olivier-becode.github.io/challenge-markdown/
+[<<Précédent](https://laura-vln.github.io/challenge-markdown/)|| Zakaria Selassi ||[Suivant>>](https://olivier-becode.github.io/challenge-markdown/)
 
 
 
