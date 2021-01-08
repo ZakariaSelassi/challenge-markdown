@@ -32,14 +32,14 @@ Mes hobbies :
 
 #### Une histoire amusant  
 
-Pas d'inspiration, j'écris cette phrase pour combler le vide.  
+> Pas d'inspiration, j'écris cette phrase pour combler le vide.  
 
 
 ##### Sous histoire 
 
-Le vide.  
+> Le néant. 
 
-[<<Précédent] 
+[<<Précédent] (https://laura-vln.github.io/challenge-markdown/) || Zakaria Selassi || [Suivant>>] 
 
 
 
