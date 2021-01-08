@@ -2,7 +2,7 @@
 
 > Dans la vie on ne fait pas ce que l'on veut mais on est responsable de ce que l'on est.
 
-![Image](https://github.com/ZakariaSelassi/challenge-markdown/blob/master/PhotoID.jpg)
+![Image](https://zakariaselassi.github.io/challenge-markdown/PhotoID.jpg)
 
 Developper Junior à **Becode**
 
@@ -39,7 +39,7 @@ Mes hobbies :
 
 > Le néant. 
 
-[<<Précédent] (https://laura-vln.github.io/challenge-markdown/) || Zakaria Selassi || [Suivant>>] 
+[<<Précédent](https://laura-vln.github.io/challenge-markdown/) || Zakaria Selassi || [Suivant>>] 
 
 
 
