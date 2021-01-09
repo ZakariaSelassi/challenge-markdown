@@ -9,7 +9,7 @@ Developper Junior à **Becode**
 
 | Anniversaire | Sexe | Couleur préféré | Nourriture favorite | Ananas sur pizza |
 | ------------ | ---- | --------------- | ------------------- | ---------------- |
-| 14/09/1997   |  M   |     Bleu        |      PIDE           |  oui - [ ]  non [ ]    |
+| 14/09/1997   |  M   |     Bleu        |      PIDE           |  oui - [ ]  non - [x]    |
 
 
 ## Hobbies
