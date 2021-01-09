@@ -2,7 +2,7 @@
 
 > Dans la vie on ne fait pas ce que l'on veut mais on est responsable de ce que l'on est.
 
-![Image](PhotoID.jpg)<img src="PhotoID.jpg" width="120" height="120">
+![Image]<img src="PhotoID.jpg" width="120" height="120">
 
 Developper Junior à **Becode**
 
