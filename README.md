@@ -9,7 +9,7 @@ Developper Junior à **Becode**
 
 | Anniversaire | Sexe | Couleur préféré | Nourriture favorite | Ananas sur pizza |
 | ------------ | ---- | --------------- | ------------------- | ---------------- |
-| 14/09/1997   |  M   |     Bleu        |      PIDE           |  oui - [ ]  non - [x]    |
+| 14/09/1997   |  M   |     Bleu        |      PIDE           |  <ul><li>- [ ] Oui</li><li>- [x] non</li></ul>    |
 
 
 ## Hobbies
@@ -27,7 +27,7 @@ Mes hobbies :
   * beaucoup de sport
 ### Vous pouvez compter sur moi :  
 
-**lorsque vous etes paniques ma bonhumeur vous rendra positive.**  
+**lorsque vous etes paniques ma bon humeur vous rendra positive.**  
 
 
 #### Une histoire amusant  
